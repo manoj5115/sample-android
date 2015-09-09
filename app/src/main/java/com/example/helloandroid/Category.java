@@ -24,4 +24,7 @@ public class Category implements TableBase{
         this.catId = catId;
         this.catName = catName;
     }
+    
+    public void b1Method(){
+    }
 }

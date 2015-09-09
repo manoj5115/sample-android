@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:2:1-13:12
+	xmlns:android
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:2:70-104
+		INJECTED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:3:26-51
+	android:versionCode
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:3:2-25
+		INJECTED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml
+		INJECTED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:4:2-12:16
+	android:label
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:4:15-44
+activity#com.example.helloandroid.HelloAndroid
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:5:3-10:14
+	android:label
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:5:42-74
+	android:name
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:5:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:6:4-9:20
+action#android.intent.action.MAIN
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:7:5-57
+	android:name
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:7:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /home/manoj/Dev/AndroidStudioProjects/HelloAndroid/app/src/main/AndroidManifest.xml:8:15-62
